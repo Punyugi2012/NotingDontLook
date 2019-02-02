@@ -86,7 +86,7 @@
                         <viewLayoutGuide key="safeArea" id="wNW-xx-mYL"/>
                     </view>
                     <connections>
-                        <segue destination="cID-pz-Ucr" kind="show" id="cOA-nP-jJt"/>
+                        <segue destination="cID-pz-Ucr" kind="show" identifier="test" id="cOA-nP-jJt"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rFY-9j-qQI" userLabel="First Responder" sceneMemberID="firstResponder"/>
